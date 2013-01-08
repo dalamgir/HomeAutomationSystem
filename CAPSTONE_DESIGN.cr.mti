@@ -1,0 +1,120 @@
+C:/Users/Daiyan/Desktop/DSD_CAPSTONE/INTERRUPT_REGISTERS.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/INTERRUPT_REGISTERS.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module INTERRUPT_REGISTERS
+
+Top level modules:
+	INTERRUPT_REGISTERS
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/INTERRUPT_PRIORITY_ENCODER.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/INTERRUPT_PRIORITY_ENCODER.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module INTERRUPT_PRIORITY_ENCODER
+
+Top level modules:
+	INTERRUPT_PRIORITY_ENCODER
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/MUX_3CHANNEL.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/MUX_3CHANNEL.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module MUX_3CHANNEL
+
+Top level modules:
+	MUX_3CHANNEL
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/INSTRUCTION_REGISTER.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/INSTRUCTION_REGISTER.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module INSTRUCTION_REGISTER
+
+Top level modules:
+	INSTRUCTION_REGISTER
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/WRITE_REGISTER.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/WRITE_REGISTER.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module WRITE_REGISTER
+
+Top level modules:
+	WRITE_REGISTER
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/PROCESSOR.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/PROCESSOR.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module PROCESSOR
+
+Top level modules:
+	PROCESSOR
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/COMPARATOR.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/COMPARATOR.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module COMPARATOR
+
+Top level modules:
+	COMPARATOR
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/BARREL_SHIFTER.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/BARREL_SHIFTER.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module BARREL_SHIFTER
+
+Top level modules:
+	BARREL_SHIFTER
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/MUX_2CHANNEL.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/MUX_2CHANNEL.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module MUX_2CHANNEL
+
+Top level modules:
+	MUX_2CHANNEL
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/D_FLIP_FLOP.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/D_FLIP_FLOP.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module D_FLIP_FLOP
+
+Top level modules:
+	D_FLIP_FLOP
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/PROGRAM_COUNTER.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/PROGRAM_COUNTER.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module PROGRAM_COUNTER
+
+Top level modules:
+	PROGRAM_COUNTER
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/CONTROL_UNIT.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/CONTROL_UNIT.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module CONTROL_UNIT
+
+Top level modules:
+	CONTROL_UNIT
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/RISC_PROCESSOR.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/RISC_PROCESSOR.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module RISC_PROCESSOR
+
+Top level modules:
+	RISC_PROCESSOR
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/REGISTER_BANK.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/REGISTER_BANK.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module REGISTER_BANK
+
+Top level modules:
+	REGISTER_BANK
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/MEMORY.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/MEMORY.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module MEMORY
+
+Top level modules:
+	MEMORY
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/ADDRESS_REGISTER.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/ADDRESS_REGISTER.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module ADDRESS_REGISTER
+
+Top level modules:
+	ADDRESS_REGISTER
+
+} {} {}} C:/Users/Daiyan/Desktop/DSD_CAPSTONE/ALU.v {1 {vlog -work work -nocovercells C:/Users/Daiyan/Desktop/DSD_CAPSTONE/ALU.v
+Model Technology ModelSim PE Student Edition vlog 6.6c Compiler 2010.08 Aug 24 2010
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}
